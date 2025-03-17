@@ -7,8 +7,8 @@
   
   <p>Transforming complex data into actionable business insights</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inder)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/adarsh-pandey-b74a9b261)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdarshPandey-22)
   [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/)
 </div>
 
@@ -63,8 +63,8 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inder&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshPandey-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshPandey-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 ## 🏆 GitHub Trophies
