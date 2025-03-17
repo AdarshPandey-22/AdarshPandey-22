@@ -47,6 +47,8 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+
+      
       
 
 ## 📊 Current Focus
