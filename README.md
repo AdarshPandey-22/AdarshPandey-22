@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200" alt="coding animation">
+  
+  # Hi 👋, I'm Adarsh
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E6EE1&center=true&vCenter=true&width=435&lines=Business+Analyst;Data+Visualization+Specialist;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel)](https://git.io/typing-svg)
+  
+  <p>Transforming complex data into actionable business insights</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inder)
+  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/)
+</div>
 
-<!--
-**AdarshPandey-22/AdarshPandey-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="analytics" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a data-driven Business Analyst passionate about extracting meaningful insights from complex datasets. With a strong foundation in analytical tools and methodologies, I help organizations make informed decisions through:
+
+- 📊 Comprehensive data analysis and visualization
+- 🔍 Identifying patterns and trends in business data
+- 💡 Translating analytical findings into strategic recommendations
+- 📈 Creating interactive dashboards for performance tracking
+
+Currently enhancing my technical toolkit while looking for opportunities to apply my analytical skills to solve real-world business challenges.
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_(2019–present).svg" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+</table>
+
+## 📊 Current Focus
+
+- **Advanced SQL**: Mastering complex queries, stored procedures, and database optimization
+- **Power BI**: Creating interactive dashboards and implementing DAX for complex calculations
+- **Data Modeling**: Developing efficient data models for business intelligence applications
+- **Statistical Analysis**: Applying statistical methods to derive meaningful insights
+- **Business Intelligence**: Transforming raw data into actionable business strategies
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inder&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 🌱 Learning Journey
+
+```mermaid
+graph LR
+    A[SQL Fundamentals] --> B[Advanced SQL]
+    B --> C[Database Design]
+    D[Excel Basics] --> E[Advanced Excel]
+    E --> F[VBA & Macros]
+    G[Power BI Fundamentals] --> H[DAX & Advanced Visualization]
+    I[Tableau Basics] --> J[Advanced Tableau]
+    K[Business Analysis] --> L[Predictive Analytics]
+    style A fill:#0077b6,color:white
+    style B fill:#0077b6,color:white
+    style D fill:#0077b6,color:white
+    style E fill:#0077b6,color:white
+    style G fill:#0077b6,color:white
+    style I fill:#0077b6,color:white
+    style K fill:#0077b6,color:white
+    style C fill:#023e8a,color:white
+    style F fill:#023e8a,color:white
+    style H fill:#023e8a,color:white
+    style J fill:#023e8a,color:white
+    style L fill:#023e8a,color:white
