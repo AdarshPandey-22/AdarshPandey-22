@@ -44,10 +44,6 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_(2019–present).svg" width="48" height="48" alt="Excel" />
       <br>Excel
-    
-
-      
-      
 
 ## 📊 Current Focus
 
