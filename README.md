@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200" alt="coding animation">
   
-  # Hi 👋, I'm Adarsh
+  # Hi 👋 I'm Adarsh
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E6EE1&center=true&vCenter=true&width=435&lines=Business+Analyst;Data+Visualization+Specialist;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel)](https://git.io/typing-svg)
   
@@ -44,6 +44,13 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_(2019–present).svg" width="48" height="48" alt="Excel" />
       <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+</table>
 
 ## 📊 Current Focus
 
@@ -53,18 +60,13 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
 - **Statistical Analysis**: Applying statistical methods to derive meaningful insights
 - **Business Intelligence**: Transforming raw data into actionable business strategies
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdarshPandey-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshPandey-22&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=inder&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+
 
 ## 🌱 Learning Journey
 
