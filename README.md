@@ -38,7 +38,7 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="48" height="48" alt="Tableau" />
+      <img src="https://th.bing.com/th/id/OIP.FBtyU6tzINwuAe-rpd7fhwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" width="48" height="48" alt="Tableau" />
       <br>Tableau
     </td>
     <td align="center" width="96">
