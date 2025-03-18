@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="" width="200" alt="coding animation">
-  
+ <img src="https://github.com/AdarshPandey-22/AdarshPandey-22/blob/main/Yellow%20and%20Blue%20Bold%20Marketing%20Agency%20with%20Hexagon%20Frame%20LinkedIn%20Banner.png?raw=true" alt="Business Analyst Banner">
+
   # Hi 👋 I'm Adarsh
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E6EE1&center=true&vCenter=true&width=435&lines=Business+Analyst;Data+Visualization+Specialist;SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel)](https://git.io/typing-svg)
