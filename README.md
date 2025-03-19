@@ -12,6 +12,9 @@
   [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/)
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=adarsh-v1&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+
 <img align="right" alt="analytics" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
 
 ## 👨‍💻 About Me
@@ -70,7 +73,8 @@ Currently enhancing my technical toolkit while looking for opportunities to appl
 
 ## 🌱 Learning Journey
 
-```mermaid
+
+```mermaid 
 graph LR
     A[SQL Fundamentals] --> B[Advanced SQL]
     B --> C[Database Design]
@@ -91,3 +95,8 @@ graph LR
     style H fill:#023e8a,color:white
     style J fill:#023e8a,color:white
     style L fill:#023e8a,color:white
+
+
+
+
+
