@@ -107,7 +107,7 @@ graph LR
 </div>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/adarsh-pandey-b74a9b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsh-pandey-b74a9b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
  <a href="mailto:adarshpandey2206@gmail.com" target="_blank">
