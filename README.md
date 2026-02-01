@@ -24,11 +24,23 @@
 ---
 
 ## 🎯 What I Bring as a Business Analyst
-- 🔍 Understanding business problems before jumping into data  
-- 📐 Defining KPIs aligned with business objectives  
-- 📊 Analyzing trends, patterns & performance metrics  
-- 📈 Communicating insights clearly to support decisions  
 
+**Problem Framing**  
+Understanding *why* a problem exists before analysing the data.
+
+**KPI & Metrics Alignment**  
+Defining the right metrics that reflect real business goals.
+
+**Insight Generation**  
+Identifying trends, patterns, and risks that influence decisions.
+
+**Decision Support**  
+Presenting insights in a way stakeholders can act on.
+
+---
+
+## 🧠 How I Think
+> *Analytics is not about more data — it’s about better questions and clearer decisions.*
 ---
 
 ## 🛠️ Core Skills & Tools
