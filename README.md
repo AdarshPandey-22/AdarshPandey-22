@@ -60,6 +60,6 @@ Turning data into insights 📊 | Business + Analytics mindset 💼
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: add-your-link-here  
-- 📧 Email: add-your-email-here  
+- 📧 Email: adarshpandey2206@gmail.com  
 
 ⭐ *Thanks for visiting my profile!*  
