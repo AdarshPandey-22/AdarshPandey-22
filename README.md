@@ -85,7 +85,7 @@ F --> G[Business Recommendation]
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="[add-your-link-here](https://www.linkedin.com/in/adarsh-pandey-b74a9b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/adarsh-pandey-b74a9b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adarshpandey2206@gmail.com">
