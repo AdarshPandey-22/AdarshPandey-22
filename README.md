@@ -1,17 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=240&section=header&text=Adarsh%20Pandey&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://vercel.app/api?type=waving&color=0A66C2&height=240&section=header&text=Adarsh%20Pandey&fontSize=48&fontColor" />
 </p>
 
-<h3 align="center">Business Analytics | Strategy • Insights • Decision Making</h3>
 
 <p align="center">
 📊 Translating data into business impact <br/>
 💼 Analytical thinking with a strong business mindset
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Aspiring+Business+Analyst;Data-Driven+Decision+Making;Insights+That+Drive+Strategy;From+Business+Questions+to+Solutions" />
-</p>
 
 ---
 
@@ -44,20 +40,18 @@ Presenting insights in a way stakeholders can act on.
 ---
 
 ## 🛠️ Core Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p alig="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/?style=for-the&logo=mysql&logoColor=white"/>
 </p>
-
-<p align="center">
+    <p align="center">
   <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Analytics-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-0A66C2?style=for"/>
 </p>
 
----
+---'=
 
 ## 📚 Currently Strengthening
 - Advanced SQL for analytical use cases  
@@ -78,7 +72,7 @@ D --> E[Analyze & Identify Insights]
 E --> F[Visualize Findings]
 F --> G[Business Recommendation]
 
-```
+```'
 
 ---
 
