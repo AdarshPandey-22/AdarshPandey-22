@@ -63,7 +63,7 @@ Presenting insights in a way stakeholders can act on.
 
 ## 🧠 How I Approach Business Problems (BA Workflow)
 
-```mermaid
+``
 flowchart LR
 A[Business Problem] --> B[Clarify Objectives]
 B --> C[Ask the Right Questions]
@@ -79,7 +79,7 @@ F --> G[Business Recommendation]
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adarsh-pandey-b74a9b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/adarsh-pandey-b74a9b261?utm_source=share&utm_poid_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adarshpandey2206@gmail.com">
@@ -87,10 +87,3 @@ F --> G[Business Recommendation]
   </a>
 </p>
 
-<p align="center">
-⭐ Building analytics skills for real-world business impact
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
-</p>
